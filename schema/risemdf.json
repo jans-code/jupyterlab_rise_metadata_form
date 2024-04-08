@@ -172,7 +172,7 @@
             "default": "100%"
           },
           "/rise/controls": {
-            "title": "Autolaunch",
+            "title": "Controls",
             "type": "boolean",
             "default": true
           },
