@@ -1,6 +1,6 @@
 {
     "name": "@jans-code/jupyterlab_rise_metadata_form",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Jupyterlab rise metadata form extension.",
     "keywords": [
         "jupyter",
